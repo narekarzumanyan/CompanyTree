@@ -1,0 +1,5 @@
+C:\Users\narek.arzumanyan\Desktop\CompanyTree\CompanyTree\bin\Debug\CompanyTree.dll
+C:\Users\narek.arzumanyan\Desktop\CompanyTree\CompanyTree\bin\Debug\CompanyTree.pdb
+C:\Users\narek.arzumanyan\Desktop\CompanyTree\CompanyTree\obj\Debug\CompanyTree.csprojResolveAssemblyReference.cache
+C:\Users\narek.arzumanyan\Desktop\CompanyTree\CompanyTree\obj\Debug\CompanyTree.dll
+C:\Users\narek.arzumanyan\Desktop\CompanyTree\CompanyTree\obj\Debug\CompanyTree.pdb
